@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SectionC_024</string>
+    <string name="permission_name"></string>
+    <string name="permission_description">if you cannot allow permission you will be not able to use it</string>
+    <string name="permission_label">Dangerous Permission</string>
+    <string name="txt">define permission</string>
 </resources>
